@@ -1,11 +1,10 @@
 # Breast Cancer Classification
 
 ## Overview
-This project focuses on building an end-to-end Machine Learning model to predict breast cancer diagnoses — whether a tumor is benign or malignant — based on clinical features extracted from digitized images of breast masses.
-The aim is to assist healthcare professionals by providing an AI-powered diagnostic tool with high accuracy.
+This project focuses on building a Machine Learning model to predict breast cancer diagnoses  whether a tumor is benign or malignant based on clinical features extracted from digitized images of breast masses.
 
 ### Dataset
-- Source: UCI Machine Learning Repository
+- Source: UCI Machine Learning Repository : https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
 - Instances: 569 samples
 - Features:
   - radius (mean of distances from center to points on the perimeter)
@@ -19,7 +18,7 @@ The aim is to assist healthcare professionals by providing an AI-powered diagnos
   - symmetry
   - fractal dimension ("coastline approximation" - 1)
 
--Target Classes:
+- Target Classes:
   - Malignant (Cancerous)
   - Benign (Non-cancerous)
 
