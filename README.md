@@ -1,4 +1,4 @@
-# Breast Cancer Classification
+# Cancer Diagnosis Prediction
 
 ## Overview
 This project focuses on building a Machine Learning model to predict breast cancer diagnoses  whether a tumor is benign or malignant based on clinical features extracted from digitized images of breast masses.
